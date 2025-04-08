@@ -1,8 +1,16 @@
-# React + Vite
+How to Access Projects:
+1. Move inside src folder.
+2. Look for components folder.
+3. All the projects are placed there each in a seprate folder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projects:
+Accordian
+Image Slider
+Load More Functionailty
+Random Color Generator
+Star Rating
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How to run:
+1. Open terminal.
+2. Navigate to the project folder.
+3. And run this command "npm run dev"
